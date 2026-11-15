@@ -5,7 +5,7 @@ use anchor_spl::token_interface::{
     TransferChecked,
 };
 
-declare_id!("HQxJQWawS1ULPsZhvyVPZPhC8zqNT4KVmB7etwjj4vUv");
+declare_id!("CCBhwgCACgLZU2ju4riKQWqvPRrYtwHM6v6MsEbahxuQ");
 
 const MAX_EVIDENCE_PER_PARTY: usize = 5;
 const MIN_TIMEOUT_SECONDS: i64 = 3_600;

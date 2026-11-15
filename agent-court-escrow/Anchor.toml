@@ -6,7 +6,7 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-agent_court_escrow = "HQxJQWawS1ULPsZhvyVPZPhC8zqNT4KVmB7etwjj4vUv"
+agent_court_escrow = "CCBhwgCACgLZU2ju4riKQWqvPRrYtwHM6v6MsEbahxuQ"
 
 [registry]
 url = "https://api.apr.dev"
